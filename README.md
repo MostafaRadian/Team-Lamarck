@@ -10,6 +10,7 @@
 - [x] Python
 - [x] Julia
 - [x] C
+- [x] C++
 - [ ] PHP
 - [x] Javascript
 - [ ] R
